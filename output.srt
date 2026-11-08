@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:03,000
+You have a finished script and a voiceover.
+
+2
+00:00:03,600 --> 00:00:12,040
+Here's how to turn them into an SRT subtitle file, without retyping or re-transcribing a single word.
+
+3
+00:00:12,735 --> 00:00:19,975
+Open Script to Subtitles on TimedSubs, and paste your script, or upload it as a text file.
+
+4
+00:00:20,575 --> 00:00:22,615
+Then upload the matching voiceover.
+
+5
+00:00:23,215 --> 00:00:27,540
+MP3, WAV, M4A and FLAC all work.
+
+6
+00:00:28,140 --> 00:00:35,020
+TimedSubs listens to the audio and lines up each line of your script with the moment it's spoken.
+
+7
+00:00:35,260 --> 00:00:38,780
+Your wording stays exactly as you wrote it.
+
+8
+00:00:39,180 --> 00:00:41,585
+When it's ready, check the timeline.
+
+9
+00:00:42,065 --> 00:00:47,665
+If part of the audio doesn't match the script, that spot is flagged, so you know where to look.
+
+10
+00:00:48,225 --> 00:00:54,310
+Download SRT or VTT, and drop it into YouTube, CapCut, or Premiere.
+
+11
+00:00:54,910 --> 00:01:01,350
+The subtitles in this video were made the same way, from this script and this voiceover.
+
+12
+00:01:01,950 --> 00:01:05,630
+Try it with fifteen free minutes at timedsubs.com.

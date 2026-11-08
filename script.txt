@@ -1,0 +1,13 @@
+You have a finished script and a voiceover. Here's how to turn them into an SRT subtitle file, without retyping or re-transcribing a single word.
+
+Open Script to Subtitles on TimedSubs, and paste your script, or upload it as a text file.
+
+Then upload the matching voiceover. MP3, WAV, M4A and FLAC all work.
+
+TimedSubs listens to the audio and lines up each line of your script with the moment it's spoken. Your wording stays exactly as you wrote it.
+
+When it's ready, check the timeline. If part of the audio doesn't match the script, that spot is flagged, so you know where to look.
+
+Download SRT or VTT, and drop it into YouTube, CapCut, or Premiere.
+
+The subtitles in this video were made the same way, from this script and this voiceover. Try it with fifteen free minutes at timedsubs.com.

@@ -1,0 +1,37 @@
+[
+  {
+    "paragraph": 1,
+    "starts_at_seconds": 0,
+    "first_words": "You have a finished script and a voiceov"
+  },
+  {
+    "paragraph": 2,
+    "starts_at_seconds": 12.45,
+    "first_words": "Open Script to Subtitles on TimedSubs, a"
+  },
+  {
+    "paragraph": 3,
+    "starts_at_seconds": 20.5,
+    "first_words": "Then upload the matching voiceover. MP3,"
+  },
+  {
+    "paragraph": 4,
+    "starts_at_seconds": 28.05,
+    "first_words": "TimedSubs listens to the audio and lines"
+  },
+  {
+    "paragraph": 5,
+    "starts_at_seconds": 39.15,
+    "first_words": "When it's ready, check the timeline. If "
+  },
+  {
+    "paragraph": 6,
+    "starts_at_seconds": 48.05,
+    "first_words": "Download SRT or VTT, and drop it into Yo"
+  },
+  {
+    "paragraph": 7,
+    "starts_at_seconds": 54.9,
+    "first_words": "The subtitles in this video were made th"
+  }
+]
